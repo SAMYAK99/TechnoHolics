@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+
+        app:cardCornerRadius="12dp"
+        app:cardElevation="4dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:background="@drawable/back_des3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginBottom="12dp">
+
+            <View
+                android:id="@+id/leftView"
+                android:layout_width="8dp"
+                android:layout_height="0dp"
+                android:layout_margin="4dp"
+                android:background="@color/colorPrimary"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <LinearLayout
+                android:id="@+id/precTitl"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/back_des2"
+                android:padding="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <TextView
+                    android:id="@+id/precTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="4dp"
+                    android:fontFamily="@font/aldrich"
+                    android:text="Wash your hands frequently"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/precContent"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="22dp"
+                android:fontFamily="@font/allerta_stencil"
+                android:text="Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water."
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/leftView"
+                app:layout_constraintTop_toBottomOf="@+id/precTitl" />
+
+            <View
+                android:id="@+id/strike"
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_marginStart="42dp"
+                android:layout_marginTop="22dp"
+                android:layout_marginEnd="42dp"
+                android:background="#ccc"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/precContent" />
+
+            <TextView
+                android:id="@+id/precWhy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Why?"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:background="#fff"
+                android:textColor="@android:color/black"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@id/strike"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/strike" />
+
+            <TextView
+                android:id="@+id/precWhyContent"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="22dp"
+                android:layout_marginBottom="12dp"
+                android:fontFamily="@font/allerta_stencil"
+                android:text="Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands."
+                android:textColor="#DF0A5E"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/leftView"
+                app:layout_constraintTop_toBottomOf="@+id/precWhy" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

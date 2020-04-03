@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">CoviData</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_country">Country</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_corona_news">No Corona News found.</string>
+
+    <!-- For Telephone List-->
+
+    <string-array name="State_Name">
+
+
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra </item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripur</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+
+
+    </string-array>
+
+
+    <string-array name="Phone_Numbers">
+
+
+        <item>0866-2410978</item>
+        <item>9436055743</item>
+        <item>6913347770</item>
+        <item>104</item>
+        <item>104</item>
+        <item>104</item>
+        <item>104</item>
+        <item>8558893911</item>
+        <item>104</item>
+        <item>104</item>
+        <item>104</item>
+        <item>0471-2552056"</item>
+        <item>104</item>
+        <item>020-26127394</item>
+        <item>3852411668</item>
+        <item>108</item>
+        <item>102</item>
+        <item>7005539653</item>
+        <item>9439994859</item>
+        <item>104</item>
+        <item>0141-2225624</item>
+        <item>104</item>
+        <item>044-29510500</item>
+        <item>104</item>
+        <item>0381-2315879</item>
+        <item>104</item>
+        <item>18001805145</item>
+        <item>1800313444222</item>
+
+
+    </string-array>
+
+
+</resources>

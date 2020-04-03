@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_des2"
+    tools:context=".SplashScreen">
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="371dp"
+
+        android:layout_marginTop="70dp"
+
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+
+
+        app:lottie_rawRes="@raw/home" />
+
+    <TextView
+        android:layout_width="match_parent"
+
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="monospace"
+        android:text="COVIDATA"
+        android:textAlignment="center"
+        android:textColor="#DA4444"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="98dp"
+
+        android:layout_marginTop="500dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/load"
+
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="420dp"
+        android:fontFamily="monospace"
+        android:text="Stay Home Stay Safe"
+        android:textAlignment="center"
+        android:textColor="#731C98"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:layout_marginTop="630dp"
+        android:fontFamily="monospace"
+        android:text="Designed and Devloped by  Samyak Singh"
+        android:textAlignment="center"
+        android:textColor="#BC9432"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

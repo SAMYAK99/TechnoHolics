@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_des4"
+
+    tools:context=".Stats_Dashboard">
+
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottemap"
+        android:layout_width="match_parent"
+        android:layout_height="362dp"
+        android:layout_marginTop="20dp"
+
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+
+
+        app:lottie_rawRes="@raw/maps" />
+
+
+    <Button
+        android:id="@+id/world_btn"
+        android:layout_width="282dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="420dp"
+        android:background="@drawable/btn_design"
+        android:fontFamily="monospace"
+        android:text="Summary"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+         />
+
+    <Button
+        android:id="@+id/Country_btn"
+        android:layout_width="282dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="550dp"
+        android:background="@drawable/btn_design"
+        android:fontFamily="monospace"
+        android:text="Country Wise"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        />
+
+
+</RelativeLayout>

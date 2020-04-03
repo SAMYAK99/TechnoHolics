@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_des2"
+    tools:context=".PrivacyActivty">
+
+
+    <TextView
+        android:id="@+id/textView11"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="43dp"
+        android:layout_marginBottom="69dp"
+
+        android:fontFamily="monospace"
+        android:text="\n\nBelow are the Sources I used to Collect Date  - \n\n 1-WHO:  https://www.who.int/emergencies/diseases/novel-coronavirus-2019 \n\n 2-API: https://github.com/novelcovid/api \n\n 3-India Map : https://corona.health-check.in/index
+            "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.036" />
+
+    <TextView
+        android:layout_width="398dp"
+        android:layout_height="151dp"
+        android:layout_marginBottom="224dp"
+        android:text="4-WORLD MAP :  https://google.com/covid19-map/?hl=en \n\n 5-ChatBot: https://covid.apollo247.com/?utm_source=twitter_utm_medium=organic_utm_campaign=bot_scanner "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
