@@ -22,7 +22,7 @@ public class IntroActivity extends AppIntro {
         addSlide(AppIntroFragment.newInstance("Maps and Graphs", "Different Stats of Covid Infected ones are Plotted in Maps and Graphs " ,
                 R.drawable.map, ContextCompat.getColor(getApplicationContext(),R.color.secondcolor)));
 
-        addSlide(AppIntroFragment.newInstance("FAQ ChatBot", "Solve your queries with our smart Bot" ,
+        addSlide(AppIntroFragment.newInstance(" ChatBot", "Solve your queries with our smart Bot" ,
                 R.drawable.chatbotimg, ContextCompat.getColor(getApplicationContext(),R.color.thirdcolor)));
 
         addSlide(AppIntroFragment.newInstance("...and many more", "Awesome features like Myth Busters , Precaution  , Helpline Numbers  etc.. are included in the app" ,

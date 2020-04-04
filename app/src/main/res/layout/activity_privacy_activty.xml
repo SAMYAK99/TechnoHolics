@@ -29,15 +29,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.036" />
 
-    <TextView
-        android:layout_width="398dp"
-        android:layout_height="151dp"
-        android:layout_marginBottom="224dp"
-        android:text="4-WORLD MAP :  https://google.com/covid19-map/?hl=en \n\n 5-ChatBot: https://covid.apollo247.com/?utm_source=twitter_utm_medium=organic_utm_campaign=bot_scanner "
-        android:textColor="#FFFFFF"
-        android:textSize="18sp"
 
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

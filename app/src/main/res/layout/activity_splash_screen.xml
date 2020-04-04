@@ -60,8 +60,8 @@
         android:layout_height="66dp"
         android:layout_marginTop="630dp"
         android:fontFamily="monospace"
-        android:text="Designed and Devloped by  Samyak Singh"
-        android:textAlignment="center"
+        android:text="     Designed and Devloped by \n           Samyak Singh"
+
         android:textColor="#BC9432"
         android:textSize="20sp"
         android:textStyle="bold" />

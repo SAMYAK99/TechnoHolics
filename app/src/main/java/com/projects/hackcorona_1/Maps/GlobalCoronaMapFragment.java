@@ -22,8 +22,8 @@ import com.projects.hackcorona_1.R;
 public class GlobalCoronaMapFragment extends Fragment {
 
     private WebView webView;
-    private  String Load_url = "https://google.com/covid19-map/?hl=en";
-    //private  String Load_url="https://www.arcgis.com/home/webmap/viewer.html?webmap=016a76cd057342e5b6f53fab3ddda875&extent=-180,-70.216,137.5692,60.1289";
+
+    private  String Load_url="https://www.arcgis.com/home/webmap/viewer.html?webmap=016a76cd057342e5b6f53fab3ddda875&extent=-180,-70.216,137.5692,60.1289";
 
 
 

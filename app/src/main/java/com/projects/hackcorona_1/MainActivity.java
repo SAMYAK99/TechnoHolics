@@ -44,6 +44,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         toolbar = findViewById(R.id.toolbar);
 
 
+        toolbar.setTitle("CoviData");
+
+
         // different icons
         btn_maps = findViewById(R.id.maps);
         btn_stats = findViewById(R.id.stats_btn);
@@ -106,6 +109,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 
         setSupportActionBar(toolbar);
+
 
         navigationView.bringToFront();
         ActionBarDrawerToggle toggle = new

@@ -7,9 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.projects.hackcorona_1.Precautions.Precaution;
+
 import com.projects.hackcorona_1.R;
-import com.projects.hackcorona_1.Stats.CountryFragment;
+
 
 public class Myth_BusterActivity extends AppCompatActivity {
      Button myth ;

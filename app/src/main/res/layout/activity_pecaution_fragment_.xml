@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".Precautions.PecautionFragment_Activity"
     android:id="@+id/container"
-    android:background="@drawable/back_des4">
+    android:background="@drawable/back_des3">
 
 
 
     <com.airbnb.lottie.LottieAnimationView
-        android:id="@+id/lottemap"
+        android:id="@+id/lotteprec"
         android:layout_width="match_parent"
         android:layout_height="362dp"
 
