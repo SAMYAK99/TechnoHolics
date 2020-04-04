@@ -22,7 +22,7 @@ ChatBotActvity extends AppCompatActivity {
 
         webView1.getSettings().setJavaScriptEnabled(true);
         webView1.setWebViewClient(new WebViewClient());
-        webView1.loadUrl("https://covid.apollo247.com/?utm_source=twitter&utm_medium=organic&utm_campaign=bot_scanner");
+        webView1.loadUrl("https://bot.dialogflow.com/08d19dc7-1470-4cbf-ba15-8242e4732e5f");
 
 
     }
