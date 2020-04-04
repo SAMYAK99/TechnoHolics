@@ -2,12 +2,11 @@
 ## How to compile the App
 Requirements:
 Android Studio
-
- *Download and install:
- -Open cmd/terminal
- -Navigate to your workspace
- -Then type in: git clone https://github.com/SAMYAK99/TechnoHolics.git
- -Import the Project in Android Studio and start coding!
+*Download and install:
+-Open cmd/terminal
+-Navigate to your workspace
+-Then type in: git clone https://github.com/SAMYAK99/TechnoHolics.git
+-Import the Project in Android Studio and start coding!
 
 ## Download it from here:-
 Link:- @https://drive.google.com/open?id=1oCAVM6widMLRfj-6bLmslizejPRgEnYg
