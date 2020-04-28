@@ -15,14 +15,15 @@
         android:layout_height="match_parent"
         android:layout_width="wrap_content"
         app:headerLayout="@layout/header"
-        app:menu="@menu/menu" />
+        app:menu="@menu/menu"
+        android:background="@drawable/back_des3"/>
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <androidx.constraintlayout.widget.ConstraintLayout
-            android:background="@drawable/back_des5"
+            android:background="@drawable/back_des3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
            >
@@ -77,7 +78,7 @@
                 tools:layout_editor_absoluteY="56dp" />
 
             <LinearLayout
-                android:background="@drawable/back_des5"
+                android:background="@drawable/back_des3"
                 android:id="@+id/linearLayout"
                 android:layout_width="0dp"
                 android:layout_height="190dp"
@@ -170,7 +171,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:background="@drawable/back_des5"
+                android:background="@drawable/back_des3"
                 android:id="@+id/linearLayout2"
                 android:layout_width="0dp"
                 android:layout_height="190dp"
@@ -256,7 +257,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:background="@drawable/back_des5"
+                android:background="@drawable/back_des3"
                 android:layout_width="0dp"
                 android:layout_height="190dp"
                 android:orientation="horizontal"

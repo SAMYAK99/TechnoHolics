@@ -26,7 +26,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="40dp"
         android:fontFamily="monospace"
-        android:text="COVIDATA"
+        android:text="COVID360"
         android:textAlignment="center"
         android:textColor="#DA4444"
         android:textSize="36sp"
@@ -62,7 +62,7 @@
         android:fontFamily="monospace"
         android:text="     Designed and Devloped by \n    Samyak Singh(Technoholics)"
 
-        android:textColor="#BC9432"
+        android:textColor="#C2185B"
         android:textSize="20sp"
         android:textStyle="bold" />
 

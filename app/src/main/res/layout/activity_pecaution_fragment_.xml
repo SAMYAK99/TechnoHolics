@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".Precautions.PecautionFragment_Activity"
     android:id="@+id/container"
-    android:background="@drawable/back_des3">
+    android:background="@drawable/back_des2">
 
 
 

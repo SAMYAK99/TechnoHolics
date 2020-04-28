@@ -21,7 +21,7 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/back_des5">
+            android:background="@drawable/back_des2">
 
             <ImageView
                 android:id="@+id/phn_img"

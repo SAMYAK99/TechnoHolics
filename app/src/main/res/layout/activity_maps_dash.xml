@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MapsDash"
     android:id="@+id/containers"
-    android:background="@drawable/back_des5">
+    android:background="@drawable/back_des2">
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/lottemap"

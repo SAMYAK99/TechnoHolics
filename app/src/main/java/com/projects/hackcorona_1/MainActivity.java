@@ -149,11 +149,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 startActivity(intentmy);
                 break;
 
+                /*
             case R.id.nav_feedback:
                 Intent feed = new Intent(MainActivity.this, FeedbackActivity.class);
                 startActivity(feed);
                 break;
-
+*/
 
                 // MORE OPTIONS ---
 

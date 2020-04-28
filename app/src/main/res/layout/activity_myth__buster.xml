@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MythBusters.Myth_BusterActivity"
     android:id="@+id/container"
-    android:background="@drawable/back_des4">
+    android:background="@drawable/back_des2">
 
 
     <com.airbnb.lottie.LottieAnimationView
