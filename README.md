@@ -13,7 +13,7 @@ Android Studio
 
 -Import the Project in Android Studio and start coding!
 
-## Download the app from [here](https://drive.google.com/open?id=1wZ0vT84IWfjL_2buEI0lahcDUUeuXvVg).
+## Download the app from [here](https://drive.google.com/open?id=1PaNtHlwszP60QU95N7RyYAHt88xFJHFx).
 
 **steps-** Open the link->click download->click drive->choose your account->click app installer->open app
 
