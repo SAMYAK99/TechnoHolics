@@ -16,10 +16,11 @@ Android Studio
 ## Download the app from [here](https://drive.google.com/open?id=1wZ0vT84IWfjL_2buEI0lahcDUUeuXvVg).
 
 **steps-** Open the link->click download->click drive->choose your account->click app installer->open app
-## PPT Link:-
-Link:- @https://drive.google.com/open?id=19BbpJ7JUWaVKa5dI2lyJyvku8N-NDWey
-## Video Link:-
-Link:- @https://www.youtube.com/watch?v=nKpXNsPWevI
+
+## PPT Link [here](https://drive.google.com/open?id=19BbpJ7JUWaVKa5dI2lyJyvku8N-NDWey).
+
+## Video Link [here](https://www.youtube.com/watch?v=nKpXNsPWevI).
+
 ### App by -> Technoholics
 Globally, new virus was causing pneumonia-like illness and continues to wreak havoc as the figure of infected people crossed a million. 
 So here, An Android Application that can illustrate and analyze the situation at different places using maps and graphs. People can check their health status and also it can help to burst myths of many of us. Common queries related to coronavirus or COVID-19 like symptoms, precautions, etc. are solved by the chatbot. Information regarding government policies and essential contacts are also provided.
@@ -44,7 +45,7 @@ Information link: For worldwide @https://arcg.is/Ki4qG and for India @https://co
 It embedded a chatbot which is developed using dialogflow .It answers all the queries and information 
 about COVID-19. Just click on it and say a "Hello", it will give you a menu that contains all the COVID-19
 related general questions.
-BOT link: @https://bot.dialogflow.com/08d19dc7-1470-4cbf-ba15-8242e4732e5f
+## BOT link [here](https://bot.dialogflow.com/08d19dc7-1470-4cbf-ba15-8242e4732e5f).
 
 ### Risk Level:-
 It indicates the risk level across your region.
