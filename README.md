@@ -9,7 +9,7 @@ Android Studio
 
 -Navigate to your workspace
 
--Then type in: git clone https://github.com/SAMYAK99/TechnoHolics.git
+-Then type in: ```git clone https://github.com/SAMYAK99/TechnoHolics.git```
 
 -Import the Project in Android Studio and start coding!
 
@@ -62,6 +62,11 @@ It contains all the helpline numbers of government of INDIA.
 ## SIDEMENU
 It contains privacy and policy options, about the App option, Contact option and myths about coronavirus in myth busters.
 
+## Team Members
+* [Samyak Singh](https://github.com/SAMYAK99)
+* [Rudrakshi](https://github.com/rudrakshi99)
+* [Parth Sharma](https://github.com/ParthSharma-jss)
+* [Srasthi Mittal](https://github.com/Srashtimittal)
 
 
 
