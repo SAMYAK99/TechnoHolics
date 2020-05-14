@@ -66,7 +66,7 @@ It contains privacy and policy options, about the App option, Contact option and
 * [Samyak Singh](https://github.com/SAMYAK99)
 * [Rudrakshi](https://github.com/rudrakshi99)
 * [Parth Sharma](https://github.com/ParthSharma-jss)
-* [Srasthi Mittal](https://github.com/Srashtimittal)
+* [Srashti Mittal](https://github.com/Srashtimittal)
 
 
 
